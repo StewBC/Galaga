@@ -45,3 +45,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# AGK Specific files
+bytecode.byc
+
+# Steam files
+steam_api64.dll
